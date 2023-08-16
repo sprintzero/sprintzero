@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sprintzero
 - 👀 I’m interested in DS
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on timeline
+- 💞️ I’m looking to collaborate on earth
 - 📫 How to reach me only here
 
 <!---
