@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sprintzero
-- 👀 I’m interested in DS
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in none
+- 🌱 I’m currently learning none
 - 💞️ I’m looking to collaborate on earth
 - 📫 How to reach me only here
 
